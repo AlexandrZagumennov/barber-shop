@@ -1,0 +1,18 @@
+// Типографика
+$main-font-family: "Montserrat";
+$main-font-size: 14px;
+$main-line-height: 100%;
+$main-bg-color: #f8f7f7;
+$main-color: #000000;
+
+// Размеры контейнера
+$content-width: 1170px;
+$container-offset: 15px;
+$container-width: calc($content-width + ($container-offset) * 2);
+
+// Брейк-поинты
+$desktop: 1600px;
+$laptop: 1200px;
+$tablet: 1000px;
+$small-tablet: 800px;
+$mobile: 560px;
